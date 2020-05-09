@@ -1,4 +1,4 @@
-# AutoAttopModernChineseHistory
+# 至善网 中国近代史纲要部分的自动答题脚本
 
 ## 写在最开始: 诚信做题，请勿刷题，该项目只用于学习交流
 
